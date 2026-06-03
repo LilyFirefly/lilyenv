@@ -1372,9 +1372,9 @@ dependencies = [
 
 [[package]]
 name = "octocrab"
-version = "0.52.0"
+version = "0.53.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "85417c74d0350c730c329af964d2dea2c85caf297d75d6db5fd368f553ff364d"
+checksum = "46a4184473c1d00a892dad5259e1d19421ab1f8e4b7d714113a6cfdb213d9980"
 dependencies = [
  "arc-swap",
  "async-trait",
